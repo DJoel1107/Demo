@@ -21,6 +21,11 @@
         <version>2.5</version>    
         <scope>provided</scope>    
     </dependency>
+    <dependency>
+    	<groupId>org.springframework</groupId>
+    	<artifactId>spring-webmvc</artifactId>
+    	<version>4.3.5.RELEASE</version>
+    </dependency>
   </dependencies>
   <build>
         <finalName>Login</finalName>
